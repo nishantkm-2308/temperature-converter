@@ -1,0 +1,65 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    background-image: url(https://img.freepik.com/free-photo/vivid-blurred-colorful-wallpaper-background_58702-3799.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+span{
+    
+    position: relative;
+    left: 468px;
+    font-size: 60px;
+}
+
+
+#tempinput{
+    margin-left: 33%;
+    margin-top: 8%;
+    font-size: 30px;  
+}
+
+#inbox{
+    font-size: 23px;
+}
+#converto{
+    position: relative;
+    font-size: 30px;   
+    left: 650px;
+    top: 40px;
+}
+
+.unitlabel{
+    position: relative;
+    left: 650px;
+    top: 60px;
+    font-size: 30px;
+}
+
+.unitinput{
+    position: relative;
+    left: 650px;
+    top: 60px;
+    transform: scale(1.5);
+}
+
+#submit{
+    margin-left: 45%;
+    margin-top: 6%;
+    font-size: 25px;
+}
+#submit:hover{
+    background-color: rgb(199, 199, 199);
+}
+#container{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin-top: -35px;
+}
+
+#templabel{
+    position: relative;
+    left: 565px;
+    top: 30px;
+    font-size: 30px;
+}
